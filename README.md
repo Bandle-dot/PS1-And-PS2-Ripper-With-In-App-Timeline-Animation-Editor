@@ -1,1 +1,3 @@
 # PS1-And-PS2-Ripper-With-In-App-Timeline-Animation-Editor
+
+Pretty cool if you ask me
